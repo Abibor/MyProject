@@ -10,7 +10,7 @@ public class DB {
     private static final String DB_DRIVER = "org.postgresql.Driver";
     private static final String DB_CONNECTION = "jdbc:postgresql://localhost:5432/database_arrays";
     private static final String DB_USER = "postgres";
-    private static final String DB_PASSWORD = " ";
+    private static final String DB_PASSWORD = "111111";
 
 
     public static void main(String[] args) {
