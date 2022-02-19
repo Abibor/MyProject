@@ -29,6 +29,8 @@ public class Array {
         c = String.valueOf(myArray[2]);
         d = String.valueOf(myArray[3]);
         e = String.valueOf(myArray[4]);
+
+        //I'd like to see this row in GitHub repository
     }
 
     //метод реализующий сортировку методом пузырька
