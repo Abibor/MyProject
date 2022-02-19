@@ -5,4 +5,9 @@
       <module name="HelloWorld" target="13.0.2" />
     </bytecodeTargetLevel>
   </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="MyProject" options="--add-exports jdk.hotspot.agent/sun.jvm.hotspot.debugger.win32.coff=ALL-UNNAMED" />
+    </option>
+  </component>
 </project>

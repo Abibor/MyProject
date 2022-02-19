@@ -12,7 +12,7 @@ public class Model {
     //доступ к БД
     String url = "jdbc:postgresql://localhost:5432/database_arrays";
     String user = "postgres";
-    String password = "111111";
+    String password = "453659";
 
     String[] myArray;
     String[] getArray;

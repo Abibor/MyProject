@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 public class Array {
     int[] myArray = new int[5];
+
     public String a;
     public String b;
     public String c;
@@ -15,6 +16,9 @@ public class Array {
     }
 
     public Array(String first, String second, String third, String fourth, String fifth){
+
+        System.out.println(first);
+
         myArray[0] = Integer.parseInt(first);
         myArray[1] = Integer.parseInt(second);
         myArray[2] = Integer.parseInt(third);
