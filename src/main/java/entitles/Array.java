@@ -31,6 +31,7 @@ public class Array {
         e = String.valueOf(myArray[4]);
 
         //I'd like to see this row in GitHub repository
+        //And now i want to see this row anywhere!
     }
 
     //метод реализующий сортировку методом пузырька

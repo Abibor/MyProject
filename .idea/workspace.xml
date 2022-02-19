@@ -68,7 +68,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.29770115" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.58">
     <configuration name="DB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -179,6 +179,7 @@
       <workItem from="1645018272944" duration="1050000" />
       <workItem from="1645019368356" duration="1359000" />
       <workItem from="1645020789266" duration="2375000" />
+      <workItem from="1645256492909" duration="26000" />
     </task>
     <task id="LOCAL-00001" summary="Commit 1">
       <created>1645019008188</created>
@@ -234,7 +235,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
-      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/../Git" />
     </ignored-roots>
     <MESSAGE value="Commit 1" />
     <option name="LAST_COMMIT_MESSAGE" value="Commit 1" />
@@ -344,9 +345,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="330" y="84" key="Maven.ArtifactSearchDialog/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1644743004364" />
-    <state x="283" y="4" width="1037" height="852" key="SettingsEditor" timestamp="1645022913162">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state x="242" y="3" width="916" height="722" key="SettingsEditor" timestamp="1645256518671">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="242" y="3" width="916" height="722" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1645256518671" />
     <state x="283" y="4" width="1037" height="852" key="SettingsEditor/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1645022913162" />
     <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1645020927709">
       <screen x="0" y="0" width="1600" height="860" />
