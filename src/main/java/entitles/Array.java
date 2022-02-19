@@ -23,6 +23,12 @@ public class Array {
 
         //метод реализующий сортировку методом пузырька
         sortArray();
+        
+        a = String.valueOf(myArray[0]);
+        b = String.valueOf(myArray[1]);
+        c = String.valueOf(myArray[2]);
+        d = String.valueOf(myArray[3]);
+        e = String.valueOf(myArray[4]);
     }
 
     //метод реализующий сортировку методом пузырька
